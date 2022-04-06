@@ -1,6 +1,6 @@
 # ASF CIUDAD SALUD 
 
-Aquí les dejamos un documento de excel que contiene las observaciones de 4 auditorías que hizo la ASF en Ciudad Salud, Morelia. 
+Aquí les dejamos un documento de excel que contiene las observaciones, montos y conceptos de 4 auditorías que hizo la ASF en Ciudad Salud, Morelia. 
 
 Pueden descargar el documento desde aquí. 
 
